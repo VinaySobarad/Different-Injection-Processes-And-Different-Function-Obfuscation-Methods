@@ -16,3 +16,7 @@ Process-Injection: https://github.com/VinaySobarad/Process-Injection.git
 
 RemoteProcessInjection-and-dllinjection: https://github.com/VinaySobarad/RemoteProcessInjection-and-dllinjection.git
 
+Function-Obfuscation: https://github.com/VinaySobarad/Function-Obfuscation.git
+
+Advanced-Function-Obfuscation: https://github.com/VinaySobarad/Advanced-Function-Obfuscation.git
+
